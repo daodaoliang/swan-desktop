@@ -1,3 +1,6 @@
+2017-05-15
+ * spm now caches downloaded packages in ~/.cache/spm
+
 2017-04-02
  * Adjusted the PATH var in cygwin to include /sbin etc
 
