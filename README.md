@@ -39,7 +39,7 @@ Swan is a Linux-like graphical desktop for 64 bit Microsoft Windows based on [Cy
 
 ## Installing
 
-- Download the [Swan Setup executable](http://sirius.starlig.ht/SwanSetup.exe) (here is the [source code](https://github.com/starlight/swan-base/blob/master/SwanSetup.nsi)).  
+- Download the [Swan Setup executable](http://sirius.starlig.ht/SwanSetup.exe) (here is the [source code](https://github.com/starlight/swan-base/blob/master/SwanSetup.iss)).  
 - Running that will download the cygwin setup executable and install the `swan-desktop` package in unattended mode.
 - If Windows "Smart Screen" prevents execution you can click "more info" and "run anyway" to continue.
 - Then, find the Desktop shortcut named "Swan Xfce4 Desktop".  Use that to start Xfce.
