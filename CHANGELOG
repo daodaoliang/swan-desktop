@@ -11,7 +11,7 @@
  * Updated the Swan Setup to install swan-desktop without extra step
 
 2017-03-26
- * remmapped $HOME folder to "$USERPROFILE/AppData/Roaming/Swan"
+ * remapped $HOME folder to "$USERPROFILE/AppData/Roaming/Swan"
  * Existing users should migrate files still residing in old $HOME
 
 2017-03-24
