@@ -1,3 +1,10 @@
+2017-08-03
+ * IBus has been added as a dependency of swan-desktop
+ * This will allow better support for switching keyboard input methods
+ * Alternate ibus engines are available, for example to support East-Asian languages
+ * Some users may need to check 'IBus Preferences' to update keyboard input
+ settings
+
 2017-05-15
  * spm now caches downloaded packages in ~/.cache/spm
 
